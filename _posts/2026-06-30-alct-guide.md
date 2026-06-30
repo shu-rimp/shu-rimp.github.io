@@ -4,6 +4,7 @@ author: shurimp
 date: 2026-06-30 00:00:00 +0900
 categories: ["Project", "ALCT"]
 tags: [alct, 번역, 오버레이, gemini, 실시간번역, 음성번역, ocr, windows, 게임번역, 에이펙스레전드]
+description: "Windows PC 화면의 외국어 텍스트와 음성을 실시간으로 한국어 번역해 오버레이로 표시하는 오픈소스 앱 ALCT 사용 가이드. 음성 번역, 텍스트(OCR) 번역, 입력 번역을 지원하며 에이펙스 레전드 등 온라인 게임에서 사용 가능합니다."
 image: 
    path: posts/7-1.png
    alt: ALCT 실시간 번역 오버레이
